@@ -1,0 +1,47 @@
+body {
+    font:20px arial, sans-serif ;
+}
+
+nav img{
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 100px;
+}
+
+section img {
+    width: 400px;
+    height: 400px;
+}
+
+.navbar {
+    background-color: #c2920dd8;
+}
+
+.quem-somos, .servicos{
+    background-color: rgba(45, 45, 206, 0.856);
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #c2920dd8;
+}
+
+.col-lg-4 img {
+    width: 50%;
+    height: 80%;
+    border-radius: 5%;
+}
+
+.col-lg-6 img {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.bg-footer {
+    background-color: #c2920dd8;
+}
